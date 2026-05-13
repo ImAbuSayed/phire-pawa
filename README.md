@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/phire-pawa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Phire Pawa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phire-pawa/) |
+| **Get License** | [Get License For Phire Pawa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phire-pawa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3a641df143cdb90c46b6418881aa12bdea5fa4d2b0a2d5d11193a8e9d3170d95` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
