@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/phire-pawa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Phire Pawa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phire-pawa/) |
+| **Get License** | [License this song: Phire Pawa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phire-pawa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ঘুটঘুটে এই আঁধার রাতে প্রেমের নেশায় মগ্ন আমি
+> উষ্ণ ছোঁয়ায় পুড়তে চাই আজ তুমিও তো অনেক দামী
+> বুকের ভেতর জমলো কত দীর্ঘশ্বাসের আর্তনাদ
+> তোমার ওই ঠোঁটের ছোঁয়ায় কাটবে আমার এই অবসাদ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
